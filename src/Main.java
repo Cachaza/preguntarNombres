@@ -14,7 +14,6 @@ public class Main {
         System.out.println("Año de nacimiento: ");
         int ano = scanner.nextInt();
         System.out.println("Te llamas " + nombre + " y naciste el " + dia + "/" + mes + "/" + ano);
-        
 
     }
 }
